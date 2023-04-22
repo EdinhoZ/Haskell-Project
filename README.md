@@ -1,5 +1,8 @@
 # Haskell-Project
 
+Made by me and my friend Diogo
+
+
 ## Repositório
 
 Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
