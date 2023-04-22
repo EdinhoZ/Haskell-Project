@@ -1,4 +1,4 @@
-# Laboratórios de Informática I
+# Haskell-Project
 
 ## Repositório
 
