@@ -5,7 +5,7 @@ Made by me and my friend Diogo
 
 ## Repositório
 
-Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
+Se tiver chave SSH configurada no GitHub pode fazer clone com o seguinte link:
 
 ```bash
 $ git clone git@github.com:EdinhoZ/Haskell-Project.git
