@@ -8,15 +8,15 @@ Made by me and my friend Diogo
 Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
 
 ```bash
-$ git clone git@gitlab.com:uminho-di/li1/2223/2022li1g111.git
-$ cd 2022li1g111
+$ git clone git@github.com:EdinhoZ/Haskell-Project.git
+$ cd Haskell-Project
 ```
 
 Alternativamente, pode fazer clone por https com o seguinte link:
 
 ```bash
 $ git clone https://gitlab.com/uminho-di/li1/2223/projetos/2022li1g111.git
-$ cd 2022li1g111
+$ cd Haskell-Project
 ```
 
 ## Interpretador
